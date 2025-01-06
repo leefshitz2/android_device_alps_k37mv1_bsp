@@ -103,3 +103,4 @@ TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
 TW_OEM_BUILD := true
 LZMA_RAMDISK_TARGETS := recovery
+TW_EXCLUDE_TWRPAPP := false
